@@ -1,0 +1,10 @@
+body{
+    background-image: url(bg.jpg);
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+table ,td,th{
+    border: 2px solid;
+    
+}

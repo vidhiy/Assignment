@@ -1,0 +1,51 @@
+body{
+    background-color:whitesmoke;
+    
+}
+*{
+    margin:0;
+    padding:0;
+}
+nav{
+    font-family: 'Ubantu','sans-serif';
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+    height: 55px;
+    background-color:white;
+    color:black;
+}
+nav ul li{
+    padding: 0 12px;
+}
+.brand img{
+    width: 44px;
+    border-radius: 50%;
+}
+.brand{
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+h1{
+    padding: 44px;
+}
+.one ul  {
+    
+    display: flex;
+    flex-direction: row;
+    list-style-type:none ;
+    margin-left: 30px;
+    margin-right:30px
+   
+
+}
+iframe{
+    border-radius: 5%;
+}
+
+
